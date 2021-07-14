@@ -26,7 +26,8 @@ public class TestList {
         System.out.println(add);
         ArrayList<Integer> integers = new ArrayList<>(Arrays.asList(myArray));
         System.out.println("helloworld");
-
+        Test test = (Test)new handdler().setObject(new ttest1());
+        test.run("zhaoyshan");
     }
 }
 class handdler implements InvocationHandler{
@@ -43,5 +44,16 @@ class handdler implements InvocationHandler{
         System.out.println("代理类在作怪");
         Object invoke = method.invoke(args);
         return null;
+    }
+}
+
+interface Test{
+    public void run(String name);
+}
+class ttest1 implements  Test {
+
+    @Override
+    public void run(String name) {
+        System.out.println(name);
     }
 }
