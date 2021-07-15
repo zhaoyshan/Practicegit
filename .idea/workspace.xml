@@ -5,7 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95764be2-85c3-495d-9872-04372e289166" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zys/collect/Inc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zys/collect/releftion/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zys/collect/releftion/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/zys/collect/IncTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/zys/collect/LinkeListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/jdk8/FuncTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/jdk8/LambdaBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kafka/KafkaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/releftion/Releftion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zys/collect/Inc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zys/collect/handdler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zys/collect/releftion/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zys/collect/releftion/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/zys/collect/IncTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/zys/collect/LinkeListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/jdk8/FuncTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/jdk8/LambdaBasic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/releftion/Releftion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zys/collect/TestList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zys/collect/TestList.class" afterDir="false" />
+>>>>>>> ad96a26 (提交一下)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +76,15 @@
   </component>
   <component name="ProjectId" id="1vLSh9VRd6dBAWr9G1KBr7X09zA" />
   <component name="ProjectViewState">
+<<<<<<< HEAD
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+=======
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+>>>>>>> ad96a26 (提交一下)
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -52,9 +95,12 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_package_manager_path" value="npm" />
+<<<<<<< HEAD
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+=======
+>>>>>>> ad96a26 (提交一下)
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -182,11 +228,15 @@
       <workItem from="1627090176022" duration="18120000" />
       <workItem from="1627689358818" duration="5290000" />
       <workItem from="1628059680088" duration="2131000" />
+<<<<<<< HEAD
       <workItem from="1628139585727" duration="3439000" />
       <workItem from="1628315134127" duration="86000" />
       <workItem from="1628315241975" duration="87000" />
       <workItem from="1628315348517" duration="730000" />
       <workItem from="1628329598421" duration="54000" />
+=======
+      <workItem from="1628139585727" duration="2389000" />
+>>>>>>> ad96a26 (提交一下)
     </task>
     <servers />
   </component>
